@@ -1,1 +1,2 @@
-# course-resource
+# Workshop & Bootcamp Course Resources
+
